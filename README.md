@@ -1,2 +1,2 @@
 # cyber301
-cyber301
+This course addresses contemporary challenges in Cybersecurity through a systems science framework. It explores currently emerging technologies and their influence on Cybersecurity environments. Real-world applications are emphasized, showcasing their transformative impact on business, education, and government, with implications for emergency preparedness, homeland security, and cybersecurity. The course also explores fostering responsible and well-informed digital citizenship in the evolving landscape of Cybersecurity.
